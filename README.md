@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PrashantProgramer
-- 👀 I’m interested in ... developing best desktop and android products
+- 👋 Hi, I’m @PrashantManjule
+- 👀 I’m interested in C#,WPF,Xamarin application developing
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... cool tech
 - 📫 How to reach me ... whatsapp: +91-8530931321 
